@@ -1,0 +1,100 @@
+body{
+background-color:#262626;
+
+}
+
+.warp {
+width: 360px;
+height: 700px;
+border-radius: 30px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+background-image: linear-gradient(rgba(3, 3, 3, 0.80), rgba(0, 0, 0, 0.10)), url(image/ny.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 400px 700px;
+border: 1px solid white;
+box-shadow: 2px 5px solid #262626;
+
+}
+
+#text {
+text-align: center;
+margin-top: 5px;
+padding: 20px;
+padding-top: 75px;
+color: aliceblue;
+font: 25px arial regular;
+
+}
+
+#LoginForm {
+color: orange;
+}
+
+#form {
+margin-left:auto;
+margin-right: auto;
+
+}
+
+.label,
+.inputfield {
+padding-top: 10px;
+margin-left: 30px;
+color: azure;
+font: 18px arial;
+
+}
+
+input {
+border: none;
+border-bottom: 1px solid white;
+padding: 5px;
+font: 18px arial;
+background: rgba(255, 255, 255, 0.0);
+color: orange;
+width: 300px;
+
+}
+
+#forgot {
+
+padding: 10px;
+padding-top: 30px;
+margin-left: 20px;
+color: azure;
+font: 16px arial;
+
+}
+
+#login {
+display: block;
+width: auto;
+margin: 20px;
+padding: 10px;
+border-radius: 30px;
+text-align: center;
+width: 300px;
+background-color: orange;
+font: 20px arial;
+color: azure;
+}
+
+#signup {
+font: 16px arial;
+color: azure;
+margin: 30px;
+margin-top: 180px;
+
+}
+a {
+color: white;
+text-decoration: none;
+}
+a link:visited{
+color:orange;
+text-decoration: none;
+
+}
